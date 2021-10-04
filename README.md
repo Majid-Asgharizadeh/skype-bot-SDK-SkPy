@@ -7,7 +7,7 @@ For example I do it in zabbix, I export items details from zabbix API and I sent
 <br>
 - zabbix JSON API opration
 <br>
-** You should get your skype channel ID with python script in Pyhton environment
+** You should get your skype channel ID with python script in Pyhton environment (go to file "Get Channel ID")
 <br>
 - python on your zabbix server and SkPy package and create "bot.py" file
 <br>
