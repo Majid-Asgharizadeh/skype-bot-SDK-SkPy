@@ -16,14 +16,24 @@ For example I do it in zabbix, I export items details from zabbix API and I sent
 message output :
 <br>
 ====================================
+<br>
 Mon Oct  4 13:47:32 +0330 2021
+<br>
 ====================================
+<br>
 "itemid":"58994"
+<br>
 "name":"OnlineUser"
+<br>
 "master_itemid":"0"
+<br>
 "lastvalue":"408"
+<br>
 "itemid":"41374"
+<br>
 "name":"InterfaceGi0/0/3.108(User):Bitsreceived"
+<br>
 "master_itemid":"0"
+<br>
 "lastvalue":"19718184"
 <br>
