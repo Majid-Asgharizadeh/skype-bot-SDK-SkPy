@@ -15,6 +15,7 @@ For example I do it in zabbix, I export items details from zabbix API and I sent
 <br>
 message output :
 <br>
+<br>
 ====================================
 <br>
 Mon Oct  4 13:47:32 +0330 2021
